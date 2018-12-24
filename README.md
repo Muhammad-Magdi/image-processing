@@ -13,7 +13,7 @@ This Code Extracts the Connected Components in an image.
   
   4- Apply an Opening Process (Erosion then Dilation).
   
-  5- Extract the Connected Components using a Flood-Fill.
+  5- Label each Connected Component (i.e. color them with a random color) using Flood-Fill Algorithm.
   
   
 ## Screeshots:
