@@ -20,7 +20,7 @@ This Code Extracts the Connected Components in an image.
 
   This GIF shows the above steps when applied on the Penguin Image.
   
-  ![Penguin GIF](Penguin-Steps.gif)
+  ![Penguin GIF](assets/Penguin-Steps.gif)
   
 ## Usage:
 
