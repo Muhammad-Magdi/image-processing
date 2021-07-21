@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Input/Output images
+input/
+output/
